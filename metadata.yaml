@@ -1,0 +1,31 @@
+_repo: The-Psychology-of-SingingA-Rational-Method-of-Voice-Culture-Based-on-a-Scientific-Analysis-of__21957
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, David C. (David Clark)
+    birthdate: 1871
+    deathdate: 1918
+    gutenberg_agent_id: '24993'
+    url: http://www.gutenberg.org/2009/agents/24993
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2007-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Singing'
+- !lcc 'MT'
+- !lcsh 'Voice culture'
+title: 'The Psychology of Singing
+
+  A Rational Method of Voice Culture Based on a Scientific Analysis of All Systems,
+  Ancient and Modern'
+url: http://www.gutenberg.org/ebooks/21957
